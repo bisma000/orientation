@@ -1,0 +1,1091 @@
+[
+  {
+    "numeroEtu": 1244,
+    "password": "mehdi",
+    "mail": "mehdi@cytech.fr",
+    "parcours": "MI",
+    "nom": "Robert",
+    "prenom": "Mehdi",
+    "moyenne": 16,
+    "username": "mehdi"
+  },
+  {
+    "numeroEtu": 1245,
+    "password": "lina",
+    "mail": "lina@cytech.fr",
+    "parcours": "MI",
+    "nom": "Durand",
+    "prenom": "Lina",
+    "moyenne": 13,
+    "username": "lina"
+  },
+  {
+    "numeroEtu": 1246,
+    "password": "karim",
+    "mail": "karim@cytech.fr",
+    "parcours": "MI",
+    "nom": "Martin",
+    "prenom": "Karim",
+    "moyenne": 14,
+    "username": "karim"
+  },
+  {
+    "numeroEtu": 1247,
+    "password": "leila",
+    "mail": "leila@cytech.fr",
+    "parcours": "MI",
+    "nom": "Dupont",
+    "prenom": "Leila",
+    "moyenne": 15,
+    "username": "leila"
+  },
+  {
+    "numeroEtu": 1248,
+    "password": "brahim",
+    "mail": "brahim@cytech.fr",
+    "parcours": "MI",
+    "nom": "Robert",
+    "prenom": "Brahim",
+    "moyenne": 16,
+    "username": "brahim"
+  },
+  {
+    "numeroEtu": 1249,
+    "password": "sabrina",
+    "mail": "sabrina@cytech.fr",
+    "parcours": "MI",
+    "nom": "Durand",
+    "prenom": "Sabrina",
+    "moyenne": 13,
+    "username": "sabrina"
+  },
+  {
+    "numeroEtu": 1250,
+    "password": "amine",
+    "mail": "amine@cytech.fr",
+    "parcours": "MI",
+    "nom": "Martin",
+    "prenom": "Amine",
+    "moyenne": 14,
+    "username": "amine"
+  },
+  {
+    "numeroEtu": 1251,
+    "password": "nadine",
+    "mail": "nadine@cytech.fr",
+    "parcours": "MI",
+    "nom": "Dupont",
+    "prenom": "Nadine",
+    "moyenne": 15,
+    "username": "nadine"
+  },
+  {
+    "numeroEtu": 1252,
+    "password": "hicham",
+    "mail": "hicham@cytech.fr",
+    "parcours": "MI",
+    "nom": "Robert",
+    "prenom": "Hicham",
+    "moyenne": 16,
+    "username": "hicham"
+  },
+  {
+    "numeroEtu": 1253,
+    "password": "sami",
+    "mail": "sami@cytech.fr",
+    "parcours": "MI",
+    "nom": "Durand",
+    "prenom": "Sami",
+    "moyenne": 13,
+    "username": "sami"
+  }, 
+  
+  {
+    "numeroEtu": 1264,
+    "password": "sara",
+    "mail": "sara2@cytech.fr",
+    "parcours": "MI",
+    "nom": "Girard",
+    "prenom": "Sara",
+    "moyenne": 15,
+    "username": "sara2"
+  },
+  {
+    "numeroEtu": 1265,
+    "password": "mohamed",
+    "mail": "mohamed@cytech.fr",
+    "parcours": "MI",
+    "nom": "Lefevre",
+    "prenom": "Mohamed",
+    "moyenne": 14,
+    "username": "mohamed"
+  },
+  {
+    "numeroEtu": 1266,
+    "password": "lea",
+    "mail": "lea@cytech.fr",
+    "parcours": "MI",
+    "nom": "Garnier",
+    "prenom": "Lea",
+    "moyenne": 16,
+    "username": "lea"
+  },
+  {
+    "numeroEtu": 1267,
+    "password": "imane",
+    "mail": "imane@cytech.fr",
+    "parcours": "MI",
+    "nom": "Moreau",
+    "prenom": "Imane",
+    "moyenne": 13,
+    "username": "imane"
+  },
+  {
+    "numeroEtu": 1268,
+    "password": "adam",
+    "mail": "adam@cytech.fr",
+    "parcours": "MI",
+    "nom": "Dufour",
+    "prenom": "Adam",
+    "moyenne": 14,
+    "username": "adam"
+  },
+  {
+    "numeroEtu": 1269,
+    "password": "lucas",
+    "mail": "lucas@cytech.fr",
+    "parcours": "MI",
+    "nom": "Roux",
+    "prenom": "Lucas",
+    "moyenne": 15,
+    "username": "lucas"
+  },
+  {
+    "numeroEtu": 1270,
+    "password": "lea",
+    "mail": "lea2@cytech.fr",
+    "parcours": "MI",
+    "nom": "Blanc",
+    "prenom": "Lea",
+    "moyenne": 16,
+    "username": "lea2"
+  },
+  {
+    "numeroEtu": 1271,
+    "password": "marie",
+    "mail": "marie@cytech.fr",
+    "parcours": "MI",
+    "nom": "Barbier",
+    "prenom": "Marie",
+    "moyenne": 13,
+    "username": "marie"
+  },
+  {
+    "numeroEtu": 1272,
+    "password": "rachid",
+    "mail": "rachid@cytech.fr",
+    "parcours": "MI",
+    "nom": "Giraud",
+    "prenom": "Rachid",
+    "moyenne": 14,
+    "username": "rachid"
+  },
+  {
+    "numeroEtu": 1273,
+    "password": "lea",
+    "mail": "lea3@cytech.fr",
+    "parcours": "MI",
+    "nom": "Caron",
+    "prenom": "Lea",
+    "moyenne": 15,
+    "username": "lea3"
+  }, 
+  
+  {
+    "numeroEtu": 1274,
+    "password": "lea",
+    "mail": "lea4@cytech.fr",
+    "parcours": "MI",
+    "nom": "Fournier",
+    "prenom": "Lea",
+    "moyenne": 16,
+    "username": "lea4"
+  },
+  {
+    "numeroEtu": 1275,
+    "password": "nathan",
+    "mail": "nathan@cytech.fr",
+    "parcours": "MI",
+    "nom": "Guerin",
+    "prenom": "Nathan",
+    "moyenne": 13,
+    "username": "nathan"
+  },
+  {
+    "numeroEtu": 1276,
+    "password": "amelie",
+    "mail": "amelie@cytech.fr",
+    "parcours": "MI",
+    "nom": "Bonneau",
+    "prenom": "Amelie",
+    "moyenne": 14,
+    "username": "amelie"
+  },
+  {
+    "numeroEtu": 1277,
+    "password": "theo",
+    "mail": "theo@cytech.fr",
+    "parcours": "MI",
+    "nom": "Marchand",
+    "prenom": "Theo",
+    "moyenne": 15,
+    "username": "theo"
+  },
+  {
+    "numeroEtu": 1278,
+    "password": "lea",
+    "mail": "lea5@cytech.fr",
+    "parcours": "MI",
+    "nom": "Gomez",
+    "prenom": "Lea",
+    "moyenne": 16,
+    "username": "lea5"
+  },
+  {
+    "numeroEtu": 1279,
+    "password": "nadia",
+    "mail": "nadia@cytech.fr",
+    "parcours": "MI",
+    "nom": "Michel",
+    "prenom": "Nadia",
+    "moyenne": 13,
+    "username": "nadia"
+  },
+  {
+    "numeroEtu": 1280,
+    "password": "thomas",
+    "mail": "thomas@cytech.fr",
+    "parcours": "MI",
+    "nom": "Robin",
+    "prenom": "Thomas",
+    "moyenne": 14,
+    "username": "thomas"
+  },
+  {
+    "numeroEtu": 1281,
+    "password": "lea",
+    "mail": "lea6@cytech.fr",
+    "parcours": "MI",
+    "nom": "Clement",
+    "prenom": "Lea",
+    "moyenne": 15,
+    "username": "lea6"
+  },
+  {
+    "numeroEtu": 1282,
+    "password": "mohammed",
+    "mail": "mohammed@cytech.fr",
+    "parcours": "MI",
+    "nom": "Ruiz",
+    "prenom": "Mohammed",
+    "moyenne": 16,
+    "username": "mohammed"
+  },
+  {
+    "numeroEtu": 1283,
+    "password": "lea",
+    "mail": "lea7@cytech.fr",
+    "parcours": "MI",
+    "nom": "Perez",
+    "prenom": "Lea",
+    "moyenne": 17,
+    "username": "lea7"
+  }, 
+  {
+    "numeroEtu": 1284,
+    "password": "antoine",
+    "mail": "antoine@cytech.fr",
+    "parcours": "MI",
+    "nom": "Caron",
+    "prenom": "Antoine",
+    "moyenne": 13,
+    "username": "antoine"
+  },
+  {
+    "numeroEtu": 1285,
+    "password": "emma",
+    "mail": "emma@cytech.fr",
+    "parcours": "MI",
+    "nom": "Lefevre",
+    "prenom": "Emma",
+    "moyenne": 14,
+    "username": "emma"
+  },
+  {
+    "numeroEtu": 1286,
+    "password": "maxime",
+    "mail": "maxime@cytech.fr",
+    "parcours": "MI",
+    "nom": "Renard",
+    "prenom": "Maxime",
+    "moyenne": 15,
+    "username": "maxime"
+  },
+  {
+    "numeroEtu": 1287,
+    "password": "sophie",
+    "mail": "sophie@cytech.fr",
+    "parcours": "MI",
+    "nom": "Girard",
+    "prenom": "Sophie",
+    "moyenne": 16,
+    "username": "sophie"
+  },
+  {
+    "numeroEtu": 1288,
+    "password": "antoine",
+    "mail": "antoine2@cytech.fr",
+    "parcours": "MI",
+    "nom": "Lemoine",
+    "prenom": "Antoine",
+    "moyenne": 17,
+    "username": "antoine2"
+  },
+  {
+    "numeroEtu": 1289,
+    "password": "amelie",
+    "mail": "amelie2@cytech.fr",
+    "parcours": "MI",
+    "nom": "Rousseau",
+    "prenom": "Amelie",
+    "moyenne": 18,
+    "username": "amelie2"
+  },
+  {
+    "numeroEtu": 1290,
+    "password": "thibault",
+    "mail": "thibault@cytech.fr",
+    "parcours": "MI",
+    "nom": "Bertrand",
+    "prenom": "Thibault",
+    "moyenne": 19,
+    "username": "thibault"
+  },
+ 
+  {
+    "numeroEtu": 2301,
+    "password": "lucas",
+    "mail": "lucas@cytech.fr",
+    "parcours": "MF",
+    "nom": "Dubois",
+    "prenom": "Lucas",
+    "moyenne": 14,
+    "username": "lucas"
+  },
+  {
+    "numeroEtu": 2302,
+    "password": "julie",
+    "mail": "julie@cytech.fr",
+    "parcours": "MF",
+    "nom": "Leroy",
+    "prenom": "Julie",
+    "moyenne": 15,
+    "username": "julie"
+  },
+  {
+    "numeroEtu": 2303,
+    "password": "margot",
+    "mail": "margot@cytech.fr",
+    "parcours": "MF",
+    "nom": "Moreau",
+    "prenom": "Margot",
+    "moyenne": 16,
+    "username": "margot"
+  },
+  {
+    "numeroEtu": 2304,
+    "password": "leo",
+    "mail": "leo@cytech.fr",
+    "parcours": "MF",
+    "nom": "Martin",
+    "prenom": "Leo",
+    "moyenne": 13,
+    "username": "leo"
+  },
+  {
+    "numeroEtu": 2305,
+    "password": "lea",
+    "mail": "lea@cytech.fr",
+    "parcours": "MF",
+    "nom": "Dupuis",
+    "prenom": "Lea",
+    "moyenne": 14,
+    "username": "lea"
+  },
+  {
+    "numeroEtu": 2306,
+    "password": "alex",
+    "mail": "alex@cytech.fr",
+    "parcours": "MF",
+    "nom": "Durand",
+    "prenom": "Alex",
+    "moyenne": 15,
+    "username": "alex"
+  },
+  {
+    "numeroEtu": 2307,
+    "password": "claire",
+    "mail": "claire@cytech.fr",
+    "parcours": "MF",
+    "nom": "Bernard",
+    "prenom": "Claire",
+    "moyenne": 16,
+    "username": "claire"
+  },
+ 
+  {
+    "numeroEtu": 2308,
+    "password": "eva",
+    "mail": "eva@cytech.fr",
+    "parcours": "MF",
+    "nom": "Roux",
+    "prenom": "Eva",
+    "moyenne": 14,
+    "username": "eva"
+  },
+  {
+    "numeroEtu": 2309,
+    "password": "louis",
+    "mail": "louis@cytech.fr",
+    "parcours": "MF",
+    "nom": "Garcia",
+    "prenom": "Louis",
+    "moyenne": 15,
+    "username": "louis"
+  },
+  {
+    "numeroEtu": 2310,
+    "password": "ana",
+    "mail": "ana@cytech.fr",
+    "parcours": "MF",
+    "nom": "Fournier",
+    "prenom": "Ana",
+    "moyenne": 16,
+    "username": "ana"
+  },
+  {
+    "numeroEtu": 2311,
+    "password": "leo",
+    "mail": "leo@cytech.fr",
+    "parcours": "MF",
+    "nom": "Caron",
+    "prenom": "Leo",
+    "moyenne": 13,
+    "username": "leo"
+  },
+  {
+    "numeroEtu": 2312,
+    "password": "emma",
+    "mail": "emma@cytech.fr",
+    "parcours": "MF",
+    "nom": "Lemoine",
+    "prenom": "Emma",
+    "moyenne": 14,
+    "username": "emma"
+  },
+  {
+    "numeroEtu": 2313,
+    "password": "nathan",
+    "mail": "nathan@cytech.fr",
+    "parcours": "MF",
+    "nom": "Andre",
+    "prenom": "Nathan",
+    "moyenne": 15,
+    "username": "nathan"
+  },
+  {
+    "numeroEtu": 2314,
+    "password": "lea",
+    "mail": "lea@cytech.fr",
+    "parcours": "MF",
+    "nom": "Lefevre",
+    "prenom": "Lea",
+    "moyenne": 16,
+    "username": "lea"
+  },
+  {
+    "numeroEtu": 2315,
+    "password": "adam",
+    "mail": "adam@cytech.fr",
+    "parcours": "MF",
+    "nom": "Mercier",
+    "prenom": "Adam",
+    "moyenne": 13,
+    "username": "adam"
+  },
+  {
+    "numeroEtu": 2316,
+    "password": "clara",
+    "mail": "clara@cytech.fr",
+    "parcours": "MF",
+    "nom": "Boyer",
+    "prenom": "Clara",
+    "moyenne": 14,
+    "username": "clara"
+  },
+  {
+    "numeroEtu": 2317,
+    "password": "thomas",
+    "mail": "thomas@cytech.fr",
+    "parcours": "MF",
+    "nom": "Robin",
+    "prenom": "Thomas",
+    "moyenne": 15,
+    "username": "thomas"
+  }, 
+ 
+  {
+    "numeroEtu": 2318,
+    "password": "amelia",
+    "mail": "amelia@cytech.fr",
+    "parcours": "MF",
+    "nom": "Girard",
+    "prenom": "Amelia",
+    "moyenne": 16,
+    "username": "amelia"
+  },
+  {
+    "numeroEtu": 2319,
+    "password": "mathis",
+    "mail": "mathis@cytech.fr",
+    "parcours": "MF",
+    "nom": "Moreau",
+    "prenom": "Mathis",
+    "moyenne": 13,
+    "username": "mathis"
+  },
+  {
+    "numeroEtu": 2320,
+    "password": "jade",
+    "mail": "jade@cytech.fr",
+    "parcours": "MF",
+    "nom": "Leroy",
+    "prenom": "Jade",
+    "moyenne": 14,
+    "username": "jade"
+  },
+  {
+    "numeroEtu": 2321,
+    "password": "antoine",
+    "mail": "antoine@cytech.fr",
+    "parcours": "MF",
+    "nom": "Simon",
+    "prenom": "Antoine",
+    "moyenne": 15,
+    "username": "antoine"
+  },
+  {
+    "numeroEtu": 2322,
+    "password": "lena",
+    "mail": "lena@cytech.fr",
+    "parcours": "MF",
+    "nom": "Benoit",
+    "prenom": "Lena",
+    "moyenne": 16,
+    "username": "lena"
+  },
+  {
+    "numeroEtu": 2323,
+    "password": "lucas",
+    "mail": "lucas@cytech.fr",
+    "parcours": "MF",
+    "nom": "Roux",
+    "prenom": "Lucas",
+    "moyenne": 13,
+    "username": "lucas"
+  },
+  {
+    "numeroEtu": 2324,
+    "password": "eva",
+    "mail": "eva@cytech.fr",
+    "parcours": "MF",
+    "nom": "Leroux",
+    "prenom": "Eva",
+    "moyenne": 14,
+    "username": "eva"
+  },
+  {
+    "numeroEtu": 2325,
+    "password": "leo",
+    "mail": "leo@cytech.fr",
+    "parcours": "MF",
+    "nom": "Guillaume",
+    "prenom": "Leo",
+    "moyenne": 15,
+    "username": "leo"
+  },
+  {
+    "numeroEtu": 2326,
+    "password": "clara",
+    "mail": "clara@cytech.fr",
+    "parcours": "MF",
+    "nom": "Barbier",
+    "prenom": "Clara",
+    "moyenne": 16,
+    "username": "clara"
+  },
+  {
+    "numeroEtu": 2327,
+    "password": "adam",
+    "mail": "adam@cytech.fr",
+    "parcours": "MF",
+    "nom": "Picard",
+    "prenom": "Adam",
+    "moyenne": 13,
+    "username": "adam"
+  },
+  {
+    "numeroEtu": 2328,
+    "password": "lea",
+    "mail": "lea@cytech.fr",
+    "parcours": "MF",
+    "nom": "Renaud",
+    "prenom": "Lea",
+    "moyenne": 14,
+    "username": "lea"
+  },
+  {
+    "numeroEtu": 2329,
+    "password": "nathan",
+    "mail": "nathan@cytech.fr",
+    "parcours": "MF",
+    "nom": "Vincent",
+    "prenom": "Nathan",
+    "moyenne": 15,
+    "username": "nathan"
+  },
+  {
+    "numeroEtu": 2330,
+    "password": "emma",
+    "mail": "emma@cytech.fr",
+    "parcours": "MF",
+    "nom": "Lefevre",
+    "prenom": "Emma",
+    "moyenne": 16,
+    "username": "emma"
+  }, 
+ 
+  {
+    "numeroEtu": 3456,
+    "password": "sophie",
+    "mail": "sophie@cytech.fr",
+    "parcours": "GI",
+    "nom": "Lopez",
+    "prenom": "Sophie",
+    "moyenne": 16,
+    "username": "sophie"
+  },
+  {
+    "numeroEtu": 3457,
+    "password": "adam",
+    "mail": "adam2@cytech.fr",
+    "parcours": "GI",
+    "nom": "Dupuis",
+    "prenom": "Adam",
+    "moyenne": 13,
+    "username": "adam2"
+  },
+  {
+    "numeroEtu": 3458,
+    "password": "lea",
+    "mail": "lea2@cytech.fr",
+    "parcours": "GI",
+    "nom": "Morin",
+    "prenom": "Lea",
+    "moyenne": 14,
+    "username": "lea2"
+  },
+  {
+    "numeroEtu": 3459,
+    "password": "nathan",
+    "mail": "nathan2@cytech.fr",
+    "parcours": "GI",
+    "nom": "Fournier",
+    "prenom": "Nathan",
+    "moyenne": 15,
+    "username": "nathan2"
+  },
+  {
+    "numeroEtu": 3460,
+    "password": "emma",
+    "mail": "emma2@cytech.fr",
+    "parcours": "GI",
+    "nom": "Morel",
+    "prenom": "Emma",
+    "moyenne": 16,
+    "username": "emma2"
+  },
+  {
+    "numeroEtu": 3461,
+    "password": "sacha",
+    "mail": "sacha@cytech.fr",
+    "parcours": "GI",
+    "nom": "Garnier",
+    "prenom": "Sacha",
+    "moyenne": 13,
+    "username": "sacha"
+  },
+  {
+    "numeroEtu": 3462,
+    "password": "clara",
+    "mail": "clara2@cytech.fr",
+    "parcours": "GI",
+    "nom": "Rousseau",
+    "prenom": "Clara",
+    "moyenne": 14,
+    "username": "clara2"
+  },
+  {
+    "numeroEtu": 3463,
+    "password": "adam",
+    "mail": "adam3@cytech.fr",
+    "parcours": "GI",
+    "nom": "Carpentier",
+    "prenom": "Adam",
+    "moyenne": 15,
+    "username": "adam3"
+  },
+  {
+    "numeroEtu": 3464,
+    "password": "lea",
+    "mail": "lea3@cytech.fr",
+    "parcours": "GI",
+    "nom": "Huet",
+    "prenom": "Lea",
+    "moyenne": 16,
+    "username": "lea3"
+  },
+  {
+    "numeroEtu": 3465,
+    "password": "nathan",
+    "mail": "nathan3@cytech.fr",
+    "parcours": "GI",
+    "nom": "Petit",
+    "prenom": "Nathan",
+    "moyenne": 13,
+    "username": "nathan3"
+  },
+  {
+    "numeroEtu": 3466,
+    "password": "emma",
+    "mail": "emma3@cytech.fr",
+    "parcours": "GI",
+    "nom": "Boucher",
+    "prenom": "Emma",
+    "moyenne": 14,
+    "username": "emma3"
+  },
+  {
+    "numeroEtu": 3467,
+    "password": "sacha",
+    "mail": "sacha2@cytech.fr",
+    "parcours": "GI",
+    "nom": "Lemoine",
+    "prenom": "Sacha",
+    "moyenne": 15,
+    "username": "sacha2"
+  },
+  {
+    "numeroEtu": 3468,
+    "password": "clara",
+    "mail": "clara3@cytech.fr",
+    "parcours": "GI",
+    "nom": "David",
+    "prenom": "Clara",
+    "moyenne": 16,
+    "username": "clara3"
+  },
+  
+  {
+    "numeroEtu": 3470,
+    "password": "lea",
+    "mail": "lea4@cytech.fr",
+    "parcours": "GI",
+    "nom": "Dubois",
+    "prenom": "Lea",
+    "moyenne": 13,
+    "username": "lea4"
+  },
+  {
+    "numeroEtu": 3471,
+    "password": "nathan",
+    "mail": "nathan4@cytech.fr",
+    "parcours": "GI",
+    "nom": "Bertrand",
+    "prenom": "Nathan",
+    "moyenne": 14,
+    "username": "nathan4"
+  },
+  {
+    "numeroEtu": 3472,
+    "password": "emma",
+    "mail": "emma4@cytech.fr",
+    "parcours": "GI",
+    "nom": "Lefevre",
+    "prenom": "Emma",
+    "moyenne": 15,
+    "username": "emma4"
+  },
+  {
+    "numeroEtu": 3473,
+    "password": "sacha",
+    "mail": "sacha3@cytech.fr",
+    "parcours": "GI",
+    "nom": "Mercier",
+    "prenom": "Sacha",
+    "moyenne": 16,
+    "username": "sacha3"
+  },
+  {
+    "numeroEtu": 3474,
+    "password": "clara",
+    "mail": "clara4@cytech.fr",
+    "parcours": "GI",
+    "nom": "Roussel",
+    "prenom": "Clara",
+    "moyenne": 13,
+    "username": "clara4"
+  },
+  {
+    "numeroEtu": 3475,
+    "password": "adam",
+    "mail": "adam5@cytech.fr",
+    "parcours": "GI",
+    "nom": "Jean",
+    "prenom": "Adam",
+    "moyenne": 14,
+    "username": "adam5"
+  },
+  {
+    "numeroEtu": 3476,
+    "password": "lea",
+    "mail": "lea5@cytech.fr",
+    "parcours": "GI",
+    "nom": "Moreau",
+    "prenom": "Lea",
+    "moyenne": 15,
+    "username": "lea5"
+  },
+  {
+    "numeroEtu": 3477,
+    "password": "nathan",
+    "mail": "nathan5@cytech.fr",
+    "parcours": "GI",
+    "nom": "Dubois",
+    "prenom": "Nathan",
+    "moyenne": 16,
+    "username": "nathan5"
+  },
+  {
+    "numeroEtu": 3478,
+    "password": "emma",
+    "mail": "emma5@cytech.fr",
+    "parcours": "GI",
+    "nom": "Berger",
+    "prenom": "Emma",
+    "moyenne": 13,
+    "username": "emma5"
+  },
+  {
+    "numeroEtu": 3479,
+    "password": "sacha",
+    "mail": "sacha4@cytech.fr",
+    "parcours": "GI",
+    "nom": "Lefevre",
+    "prenom": "Sacha",
+    "moyenne": 14,
+    "username": "sacha4"
+  },
+  {
+    "numeroEtu": 3480,
+    "password": "clara",
+    "mail": "clara5@cytech.fr",
+    "parcours": "GI",
+    "nom": "Dupuis",
+    "prenom": "Clara",
+    "moyenne": 15,
+    "username": "clara5"
+  },
+  {
+    "numeroEtu": 3481,
+    "password": "adam",
+    "mail": "adam6@cytech.fr",
+    "parcours": "GI",
+    "nom": "Rousseau",
+    "prenom": "Adam",
+    "moyenne": 16,
+    "username": "adam6"
+  },
+  {
+    "numeroEtu": 3482,
+    "password": "lea",
+    "mail": "lea6@cytech.fr",
+    "parcours": "GI",
+    "nom": "Garnier",
+    "prenom": "Lea",
+    "moyenne": 13,
+    "username": "lea6"
+  },
+
+  {
+    "numeroEtu": 3483,
+    "password": "nathan",
+    "mail": "nathan6@cytech.fr",
+    "parcours": "GI",
+    "nom": "Michel",
+    "prenom": "Nathan",
+    "moyenne": 14,
+    "username": "nathan6"
+  },
+  {
+    "numeroEtu": 3484,
+    "password": "emma",
+    "mail": "emma6@cytech.fr",
+    "parcours": "GI",
+    "nom": "Leroy",
+    "prenom": "Emma",
+    "moyenne": 15,
+    "username": "emma6"
+  },
+  {
+    "numeroEtu": 3485,
+    "password": "sacha",
+    "mail": "sacha5@cytech.fr",
+    "parcours": "GI",
+    "nom": "Moreau",
+    "prenom": "Sacha",
+    "moyenne": 16,
+    "username": "sacha5"
+  },
+  {
+    "numeroEtu": 3486,
+    "password": "clara",
+    "mail": "clara6@cytech.fr",
+    "parcours": "GI",
+    "nom": "Lefevre",
+    "prenom": "Clara",
+    "moyenne": 13,
+    "username": "clara6"
+  },
+  {
+    "numeroEtu": 3487,
+    "password": "adam",
+    "mail": "adam7@cytech.fr",
+    "parcours": "GI",
+    "nom": "Garnier",
+    "prenom": "Adam",
+    "moyenne": 14,
+    "username": "adam7"
+  },
+  {
+    "numeroEtu": 3488,
+    "password": "lea",
+    "mail": "lea7@cytech.fr",
+    "parcours": "GI",
+    "nom": "Roux",
+    "prenom": "Lea",
+    "moyenne": 15,
+    "username": "lea7"
+  },
+  {
+    "numeroEtu": 3489,
+    "password": "nathan",
+    "mail": "nathan7@cytech.fr",
+    "parcours": "GI",
+    "nom": "Bonnet",
+    "prenom": "Nathan",
+    "moyenne": 16,
+    "username": "nathan7"
+  },
+  {
+    "numeroEtu": 3490,
+    "password": "emma",
+    "mail": "emma7@cytech.fr",
+    "parcours": "GI",
+    "nom": "Roux",
+    "prenom": "Emma",
+    "moyenne": 13,
+    "username": "emma7"
+  },
+  {
+    "numeroEtu": 3491,
+    "password": "sacha",
+    "mail": "sacha6@cytech.fr",
+    "parcours": "GI",
+    "nom": "Lemoine",
+    "prenom": "Sacha",
+    "moyenne": 14,
+    "username": "sacha6"
+  },
+  {
+    "numeroEtu": 3492,
+    "password": "clara",
+    "mail": "clara7@cytech.fr",
+    "parcours": "GI",
+    "nom": "Leclerc",
+    "prenom": "Clara",
+    "moyenne": 15,
+    "username": "clara7"
+  },
+  {
+    "numeroEtu": 3493,
+    "password": "adam",
+    "mail": "adam8@cytech.fr",
+    "parcours": "GI",
+    "nom": "Vincent",
+    "prenom": "Adam",
+    "moyenne": 16,
+    "username": "adam8"
+  },
+  {
+    "numeroEtu": 3494,
+    "password": "lea",
+    "mail": "lea8@cytech.fr",
+    "parcours": "GI",
+    "nom": "Riviere",
+    "prenom": "Lea",
+    "moyenne": 13,
+    "username": "lea8"
+  },
+  {
+    "numeroEtu": 3495,
+    "password": "nathan",
+    "mail": "nathan8@cytech.fr",
+    "parcours": "GI",
+    "nom": "Girard",
+    "prenom": "Nathan",
+    "moyenne": 14,
+    "username": "nathan8"
+  },
+  {
+    "numeroEtu": 3496,
+    "password": "emma",
+    "mail": "emma8@cytech.fr",
+    "parcours": "GI",
+    "nom": "Masson",
+    "prenom": "Emma",
+    "moyenne": 15,
+    "username": "emma8"
+  },
+  {
+    "numeroEtu": 3497,
+    "password": "sacha",
+    "mail": "sacha7@cytech.fr",
+    "parcours": "GI",
+    "nom": "Brun",
+    "prenom": "Sacha",
+    "moyenne": 16,
+    "username": "sacha7"
+  }
+
+ ]

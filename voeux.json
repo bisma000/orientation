@@ -1,0 +1,167 @@
+[
+  {
+    "numeroEtu": 1244,
+    "accepte": "oui",
+    "parcours": "MI",
+    "priorite": 1,
+    "id": 32,
+    "nom": "Robert",
+    "prenom": "Mehdi",
+    "voeux": "Data Science",
+    "status": "attribué"
+  },
+  {
+    "numeroEtu": 3484,
+    "accepte": "oui",
+    "parcours": "GI",
+    "priorite": 1,
+    "id": 35,
+    "nom": "Leroy",
+    "prenom": "Emma",
+    "voeux": "Cybersécurité",
+    "status": "attribué"
+  },
+  {
+    "numeroEtu": 3478,
+    "accepte": "oui",
+    "parcours": "GI",
+    "priorite": 1,
+    "id": 38,
+    "nom": "Berger",
+    "prenom": "Emma",
+    "voeux": "Cybersécurité",
+    "status": "attribué"
+  },
+  {
+    "numeroEtu": 1266,
+    "accepte": "oui",
+    "parcours": "MI",
+    "priorite": 1,
+    "id": 41,
+    "nom": "Garnier",
+    "prenom": "Lea",
+    "voeux": "Finance and Technologies",
+    "status": "attribué"
+  },
+  {
+    "numeroEtu": 2306,
+    "accepte": "oui",
+    "parcours": "MF",
+    "priorite": 1,
+    "id": 44,
+    "nom": "Durand",
+    "prenom": "Alex",
+    "voeux": "Ingéniérie Financière",
+    "status": "attribué"
+  },
+  {
+    "numeroEtu": 1244,
+    "accepte": "oui",
+    "parcours": "MI",
+    "priorite": 2,
+    "id": 33,
+    "nom": "Robert",
+    "prenom": "Mehdi",
+    "voeux": "High Performance Data Analytics",
+    "status": "attribué"
+  },
+  {
+    "numeroEtu": 3484,
+    "accepte": "oui",
+    "parcours": "GI",
+    "priorite": 2,
+    "id": 36,
+    "nom": "Leroy",
+    "prenom": "Emma",
+    "voeux": "BI & Analytics",
+    "status": "attribué"
+  },
+  {
+    "numeroEtu": 3478,
+    "accepte": "oui",
+    "parcours": "GI",
+    "priorite": 2,
+    "id": 39,
+    "nom": "Berger",
+    "prenom": "Emma",
+    "voeux": "Intelligence Artificielle",
+    "status": "attribué"
+  },
+  {
+    "numeroEtu": 1266,
+    "accepte": "oui",
+    "parcours": "MI",
+    "priorite": 2,
+    "id": 42,
+    "nom": "Garnier",
+    "prenom": "Lea",
+    "voeux": "High Performance Data Analytics",
+    "status": "attribué"
+  },
+  {
+    "numeroEtu": 2306,
+    "accepte": "oui",
+    "parcours": "MF",
+    "priorite": 2,
+    "id": 45,
+    "nom": "Durand",
+    "prenom": "Alex",
+    "voeux": "Actuariat",
+    "status": "attribué"
+  },
+  {
+    "numeroEtu": 1244,
+    "accepte": "oui",
+    "parcours": "MI",
+    "priorite": 3,
+    "id": 34,
+    "nom": "Robert",
+    "prenom": "Mehdi",
+    "voeux": "Finance and Technologies",
+    "status": "attribué"
+  },
+  {
+    "numeroEtu": 3484,
+    "accepte": "oui",
+    "parcours": "GI",
+    "priorite": 3,
+    "id": 37,
+    "nom": "Leroy",
+    "prenom": "Emma",
+    "voeux": "Intelligence Artificielle",
+    "status": "attribué"
+  },
+  {
+    "numeroEtu": 3478,
+    "accepte": "oui",
+    "parcours": "GI",
+    "priorite": 3,
+    "id": 40,
+    "nom": "Berger",
+    "prenom": "Emma",
+    "voeux": "BI & Analytics",
+    "status": "attribué"
+  },
+  {
+    "numeroEtu": 1266,
+    "accepte": "oui",
+    "parcours": "MI",
+    "priorite": 3,
+    "id": 43,
+    "nom": "Garnier",
+    "prenom": "Lea",
+    "voeux": "Data Science",
+    "status": "attribué"
+  },
+  {
+    "numeroEtu": 2306,
+    "accepte": "oui",
+    "parcours": "MF",
+    "priorite": 3,
+    "id": 46,
+    "nom": "Durand",
+    "prenom": "Alex",
+    "voeux": "Mathématiques pour la Finance",
+    "status": "attribué"
+  }
+]

@@ -1,0 +1,408 @@
+[
+  {
+    "password": "mehdi",
+    "role": "etudiant",
+    "username": "mehdi"
+  },
+  {
+    "password": "lina",
+    "role": "etudiant",
+    "username": "lina"
+  },
+  {
+    "password": "karim",
+    "role": "etudiant",
+    "username": "karim"
+  },
+  {
+    "password": "leila",
+    "role": "etudiant",
+    "username": "leila"
+  },
+  {
+    "password": "brahim",
+    "role": "etudiant",
+    "username": "brahim"
+  },
+  {
+    "password": "sabrina",
+    "role": "etudiant",
+    "username": "sabrina"
+  },
+  {
+    "password": "amine",
+    "role": "etudiant",
+    "username": "amine"
+  },
+  {
+    "password": "nadine",
+    "role": "etudiant",
+    "username": "nadine"
+  },
+  {
+    "password": "hicham",
+    "role": "etudiant",
+    "username": "hicham"
+  },
+  {
+    "password": "sami",
+    "role": "etudiant",
+    "username": "sami"
+  },
+  {
+    "password": "sara",
+    "role": "etudiant",
+    "username": "sara2"
+  },
+  {
+    "password": "mohamed",
+    "role": "etudiant",
+    "username": "mohamed"
+  }, 
+  
+  
+  {
+    "password": "lucas",
+    "role": "etudiant",
+    "username": "lucas"
+  },
+  {
+    "password": "julie",
+    "role": "etudiant",
+    "username": "julie"
+  },
+  {
+    "password": "margot",
+    "role": "etudiant",
+    "username": "margot"
+  },
+  {
+    "password": "leo",
+    "role": "etudiant",
+    "username": "leo"
+  },
+  {
+    "password": "lea",
+    "role": "etudiant",
+    "username": "lea"
+  },
+  {
+    "password": "alex",
+    "role": "etudiant",
+    "username": "alex"
+  },
+  {
+    "password": "michael",
+    "role": "etudiant",
+    "username": "michael"
+  },
+  {
+    "password": "nathalie",
+    "role": "etudiant",
+    "username": "nathalie"
+  },
+  {
+    "password": "romain",
+    "role": "etudiant",
+    "username": "romain"
+  },
+  {
+    "password": "lea",
+    "role": "etudiant",
+    "username": "lea2"
+  },
+  {
+    "password": "olivia",
+    "role": "etudiant",
+    "username": "olivia"
+  },
+  {
+    "password": "thibaut",
+    "role": "etudiant",
+    "username": "thibaut"
+  },
+  {
+    "password": "pauline",
+    "role": "etudiant",
+    "username": "pauline"
+  },
+  {
+    "password": "lucas2",
+    "role": "etudiant",
+    "username": "lucas2"
+  },
+  {
+    "password": "lea3",
+    "role": "etudiant",
+    "username": "lea3"
+  },
+  
+  {
+    "password": "lea",
+    "role": "etudiant",
+    "username": "lea"
+  },
+  {
+    "password": "imane",
+    "role": "etudiant",
+    "username": "imane"
+  },
+  {
+    "password": "adam",
+    "role": "etudiant",
+    "username": "adam"
+  },
+  {
+    "password": "lucas",
+    "role": "etudiant",
+    "username": "lucas"
+  },
+  {
+    "password": "lea",
+    "role": "etudiant",
+    "username": "lea2"
+  },
+  {
+    "password": "marie",
+    "role": "etudiant",
+    "username": "marie"
+  },
+  {
+    "password": "rachid",
+    "role": "etudiant",
+    "username": "rachid"
+  },
+  {
+    "password": "lea",
+    "role": "etudiant",
+    "username": "lea3"
+  },
+  {
+    "password": "lea",
+    "role": "etudiant",
+    "username": "lea4"
+  },
+  {
+    "password": "nathan",
+    "role": "etudiant",
+    "username": "nathan"
+  },
+  {
+    "password": "amelie",
+    "role": "etudiant",
+    "username": "amelie"
+  },
+  
+  {
+    "password": "sophie",
+    "role": "etudiant",
+    "username": "sophie"
+  },
+  {
+    "password": "adam2",
+    "role": "etudiant",
+    "username": "adam2"
+  },
+  {
+    "password": "lea2",
+    "role": "etudiant",
+    "username": "lea2"
+  },
+  {
+    "password": "nathan2",
+    "role": "etudiant",
+    "username": "nathan2"
+  },
+  {
+    "password": "emma2",
+    "role": "etudiant",
+    "username": "emma2"
+  },
+  {
+    "password": "sacha",
+    "role": "etudiant",
+    "username": "sacha"
+  },
+  {
+    "password": "clara2",
+    "role": "etudiant",
+    "username": "clara2"
+  },
+  {
+    "password": "adam3",
+    "role": "etudiant",
+    "username": "adam3"
+  },
+  {
+    "password": "lea3",
+    "role": "etudiant",
+    "username": "lea3"
+  },
+  {
+    "password": "nathan3",
+    "role": "etudiant",
+    "username": "nathan3"
+  },
+  {
+    "password": "emma3",
+    "role": "etudiant",
+    "username": "emma3"
+  },
+  {
+    "password": "sacha2",
+    "role": "etudiant",
+    "username": "sacha2"
+  },
+  {
+    "password": "clara3",
+    "role": "etudiant",
+    "username": "clara3"
+  },
+  {
+    "password": "lea4",
+    "role": "etudiant",
+    "username": "lea4"
+  },
+  {
+    "password": "nathan4",
+    "role": "etudiant",
+    "username": "nathan4"
+  },
+  {
+    "password": "emma4",
+    "role": "etudiant",
+    "username": "emma4"
+  },
+  {
+    "password": "sacha3",
+    "role": "etudiant",
+    "username": "sacha3"
+  },
+  {
+    "password": "clara4",
+    "role": "etudiant",
+    "username": "clara4"
+  },
+  {
+    "password": "adam5",
+    "role": "etudiant",
+    "username": "adam5"
+  },
+  {
+    "password": "lea5",
+    "role": "etudiant",
+    "username": "lea5"
+  },
+  {
+    "password": "nathan5",
+    "role": "etudiant",
+    "username": "nathan5"
+  },
+  {
+    "password": "emma5",
+    "role": "etudiant",
+    "username": "emma5"
+  },
+  {
+    "password": "sacha4",
+    "role": "etudiant",
+    "username": "sacha4"
+  },
+  {
+    "password": "clara5",
+    "role": "etudiant",
+    "username": "clara5"
+  },
+  {
+    "password": "adam6",
+    "role": "etudiant",
+    "username": "adam6"
+  },
+  {
+    "password": "lea6",
+    "role": "etudiant",
+    "username": "lea6"
+  },
+  {
+    "password": "nathan6",
+    "role": "etudiant",
+    "username": "nathan6"
+  },
+  {
+    "password": "emma6",
+    "role": "etudiant",
+    "username": "emma6"
+  },
+  {
+    "password": "sacha5",
+    "role": "etudiant",
+    "username": "sacha5"
+  },
+  {
+    "password": "clara6",
+    "role": "etudiant",
+    "username": "clara6"
+  },
+  {
+    "password": "adam7",
+    "role": "etudiant",
+    "username": "adam7"
+  },
+  {
+    "password": "lea7",
+    "role": "etudiant",
+    "username": "lea7"
+  },
+  {
+    "password": "nathan7",
+    "role": "etudiant",
+    "username": "nathan7"
+  },
+  {
+    "password": "emma7",
+    "role": "etudiant",
+    "username": "emma7"
+  },
+  {
+    "password": "sacha6",
+    "role": "etudiant",
+    "username": "sacha6"
+  },
+  {
+    "password": "clara7",
+    "role": "etudiant",
+    "username": "clara7"
+  },
+  {
+    "password": "adam8",
+    "role": "etudiant",
+    "username": "adam8"
+  },
+  {
+    "password": "lea8",
+    "role": "etudiant",
+    "username": "lea8"
+  },
+  {
+    "password": "nathan8",
+    "role": "etudiant",
+    "username": "nathan8"
+  },
+  {
+    "password": "test",
+    "role": "responsable",
+    "username": "test"
+  }, 
+  
+    {
+    
+    "password": "emma",
+    "role": "etudiant",
+    "username": "emma8"
+  },
+  {
+    "password": "sacha",
+    "role": "etudiant",
+    "username": "sacha7"
+  }
+]
