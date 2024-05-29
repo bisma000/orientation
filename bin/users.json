@@ -1,0 +1,37 @@
+[
+  {
+    "password": "anas",
+    "role": "etudiant",
+    "username": "anas"
+  },
+  {
+    "password": "test",
+    "role": "responsable",
+    "username": "test"
+  },
+  {
+    "password": "123",
+    "role": "etudiant",
+    "username": "nour11"
+  },
+  {
+    "password": "123",
+    "role": "etudiant",
+    "username": "nour12"
+  },
+  {
+    "password": "123",
+    "role": "etudiant",
+    "username": "nour8"
+  },
+  {
+    "password": "123",
+    "role": "responsable",
+    "username": "nour5"
+  },
+  {
+    "password": "testNumEtu",
+    "role": "etudiant",
+    "username": "testNumEtu"
+  }
+]

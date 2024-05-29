@@ -1,0 +1,38 @@
+[
+  {
+    "numeroEtu": 1234,
+    "desistement": false,
+    "accepte": "oui",
+    "parcours": "GI",
+    "priorite": 1,
+    "id": 8,
+    "nom": "anas",
+    "prenom": "anas",
+    "voeux": "Intelligence Artificielle",
+    "status": "attribué"
+  },
+  {
+    "numeroEtu": 1234,
+    "desistement": false,
+    "accepte": "non",
+    "parcours": "GI",
+    "priorite": 2,
+    "id": 9,
+    "nom": "anas",
+    "prenom": "anas",
+    "voeux": "Cybersécurité",
+    "status": "en attente"
+  },
+  {
+    "numeroEtu": 1234,
+    "desistement": false,
+    "accepte": "non",
+    "parcours": "GI",
+    "priorite": 3,
+    "id": 10,
+    "nom": "anas",
+    "prenom": "anas",
+    "voeux": "BI & Analytics",
+    "status": "en attente"
+  }
+]
