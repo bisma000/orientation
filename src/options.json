@@ -1,0 +1,47 @@
+[
+  {
+    "placesDisponibles": 15,
+    "parcours": "MI",
+    "nom": "Data Science"
+  },
+  {
+    "placesDisponibles": 10,
+    "parcours": "MF",
+    "nom": "Actuariat"
+  },
+  {
+    "placesDisponibles": 12,
+    "parcours": "MI",
+    "nom": "Finance and Technologies"
+  },
+  {
+    "placesDisponibles": 10,
+    "parcours": "GI",
+    "nom": "Intelligence Artificielle"
+  },
+  {
+    "placesDisponibles": 1,
+    "parcours": "GI",
+    "nom": "Cybersécurité"
+  },
+  {
+    "placesDisponibles": 10,
+    "parcours": "MF",
+    "nom": "Ingéniérie Financière"
+  },
+  {
+    "placesDisponibles": 21,
+    "parcours": "GI",
+    "nom": "BI & Analytics"
+  },
+  {
+    "placesDisponibles": 10,
+    "parcours": "MI",
+    "nom": "High Performance Data Analytics"
+  },
+  {
+    "placesDisponibles": 10,
+    "parcours": "MF",
+    "nom": "Mathématiques pour la Finance"
+  }
+]
